@@ -31,22 +31,23 @@ MySQL Workbench
 - Bundle Fashion and Accessories to increase order value.
 - Reduce dependency on a few customers through loyalty programs.
 
+
 ## Screenshots
 
 ### Q1: Total Revenue
-![Q1](screenshots/q1_total_revenue.png)
+![Q1](total%20revenue%28q1%29.png)
 
 ### Q2: Category-wise Revenue
-![Q2](screenshots/q2_category_revenue.png)
+![Q2](catagegory%20revenue%28q2%29.png)
 
 ### Q3: Top 3 Customers
-![Q3](screenshots/q3_top_customers.png)
+![Q3](top%203%20coust%20%28q3%29.png)
 
 ### Q4: City-wise Revenue
-![Q4](screenshots/q4_city_revenue.png)
+![Q4](city%20wise%20sales%28q.%204%29.png)
 
 ### Q5: Monthly Sales Trend
-![Q5](screenshots/q5_monthly_trend.png)
+![Q5](month%20wise%20sales%20%28q.5%29.png)
 
 ### Q6: Best-Selling Product
-![Q6](screenshots/q6_best_product.png)
+![Q6](best%20selling%20product%28q.6%29.png)
