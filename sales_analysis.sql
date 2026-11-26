@@ -102,3 +102,12 @@ JOIN products p ON o.product_id = p.product_id
 GROUP BY p.product_name
 ORDER BY units_sold DESC
 LIMIT 1;
+
+-- Q7: Rank customers by total spending
+SELECT c.name,
+       SUM(o.quantity * p.price) AS total_spent,
+       RANK() OVER (ORDER BY SUM(o.quantity * p.price) DESC) AS spending_rank
+FROM orders o
+JOIN customers c ON o.customer_id = c.customer_id
+JOIN products p ON o.product_id = p.product_id
+GROUP BY c.name;
