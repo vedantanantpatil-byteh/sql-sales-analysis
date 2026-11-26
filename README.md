@@ -53,5 +53,5 @@ MySQL Workbench
 ### Q6: Best-Selling Product
 ![Q6](best%20selling%20product%28q.6%29.png)
 
-### Q7: Customer Ranking (Window Function)
-![Q7](screenshots/q7_customer_rank.png)
+### Q7: Customer Retention
+![Q7](customer_retention%28q7%29.png)
