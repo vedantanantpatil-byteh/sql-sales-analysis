@@ -18,6 +18,7 @@ MySQL Workbench
 4. City-wise sales
 5. Month-wise sales trend
 6. Best-selling product
+7. Customer ranking using window function
 
 ## Key Insights
 - Total revenue was ₹1.82 lakh, and Electronics contributed ~88%, so the business depends heavily on one category.
@@ -51,3 +52,6 @@ MySQL Workbench
 
 ### Q6: Best-Selling Product
 ![Q6](best%20selling%20product%28q.6%29.png)
+
+### Q7: Customer Ranking (Window Function)
+![Q7](screenshots/q7_customer_rank.png)
